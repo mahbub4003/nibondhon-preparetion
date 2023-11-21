@@ -9,7 +9,14 @@ const Footer = () => {
 
           <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
             ১৮তম নিবন্ধন ২০২৩ এর শর্ট শাজেশান্স।। ইনশা আল্লাহ এখান থেকে ৮০+
-            মার্ক কমন পাবেন...।
+            মার্ক কমন পাবেন...।{" "}
+            <a
+              target="blank"
+              className="text-red-300"
+              href="https://web.facebook.com/profile.php?id=100007823118705"
+            >
+              মাহবুবুর রাহমান.....
+            </a>
           </p>
 
           <ul className="mt-12 flex flex-wrap justify-center gap-6 md:gap-8 lg:gap-12">
