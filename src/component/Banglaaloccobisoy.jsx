@@ -25,6 +25,7 @@ const Banglaaloccobisoy = () => {
             </span>
           </p>
         </div>
+        <span>আপডেট চলিতেছে...</span>
       </div>
     </div>
   );

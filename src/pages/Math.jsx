@@ -1,5 +1,5 @@
 const Math = () => {
-  return <div>গনিত</div>;
+  return <div>গনিত আপডেট চলিতেছে...</div>;
 };
 
 export default Math;

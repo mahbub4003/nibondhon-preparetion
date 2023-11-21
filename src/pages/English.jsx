@@ -1,5 +1,5 @@
 const English = () => {
-  return <div>ইংরেজি</div>;
+  return <div>ইংরেজি আপডেট চলিতেছে...</div>;
 };
 
 export default English;
