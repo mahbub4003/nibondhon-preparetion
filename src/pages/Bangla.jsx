@@ -3,7 +3,7 @@ import Footer from "../component/Footer";
 
 const Bangla = () => {
   return (
-    <div className="flex items-center sm:h-screen justify-center">
+    <div className="sm:flex items-center sm:h-screen justify-center">
       <div className="rounded-xl w-[100vw] sm:w-[50vw]  border border-green-300 bg-green-500 p-4">
         <ul className="mt-4 space-y-2 w-[100%]">
           <li>
