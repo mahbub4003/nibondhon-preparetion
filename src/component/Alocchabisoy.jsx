@@ -71,7 +71,7 @@ const Alocchabisoy = () => {
               </h3>
               <br />
               <h4>
-                <span className="font-bold underline">মনে রাখুন </span>
+                <span className="font-bold underline">মনে রাখুনঃ </span>
                 {"  "}
                 <span className=" bg-green-200">
                   {" "}
