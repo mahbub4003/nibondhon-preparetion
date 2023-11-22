@@ -1,7 +1,10 @@
+import Alocchabisoy from "./Alocchabisoy";
+import Footer from "./Footer";
+
 const Banglaaloccobisoy = () => {
   return (
     <div className="bg-gray-100 w=[100vw] p-7">
-      <h1 className=" flex items-center justify-center w-[100vw] bg-green-100 text-2xl">
+      <h1 className=" flex items-center justify-center w-[100%] bg-green-100 text-2xl">
         বাংলা ব্যকরনের আলোচ্য বিষয়{" "}
       </h1>
       <div>
@@ -25,8 +28,9 @@ const Banglaaloccobisoy = () => {
             </span>
           </p>
         </div>
-        <span>আপডেট চলিতেছে...</span>
+        <Alocchabisoy />
       </div>
+      <Footer />
     </div>
   );
 };
