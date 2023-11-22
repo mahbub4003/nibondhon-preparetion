@@ -8,7 +8,7 @@ const Banglaaloccobisoy = () => {
         বাংলা ব্যকরনের আলোচ্য বিষয়{" "}
       </h1>
       <div>
-        <div className="m-5 p-3 bg-white ত">
+        <div className="m-5 sm:p-3 bg-white">
           <h2 className="text-xl">বাংলা ব্যকরনের আলোচ্য বিষয় চারটি। </h2>
           <p>
             যেমনঃ{" "}
