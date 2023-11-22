@@ -2,8 +2,8 @@ import tk from "../assets/Untitled.png";
 const Alocchabisoy = () => {
   return (
     <div>
-      <div className="m-5 sm:p-3 bg-white">
-        <div className=" sm:justify-between ml-5 flex-wrap">
+      <div className="sm:m-5 sm:p-3 bg-white">
+        <div className=" sm:justify-between sm:ml-5 flex-wrap">
           <div className="border border-indigo-600 p-2">
             <div className="text-red-700 p-3">ক- ধ্বনিতত্ত্ব </div>
             <div>
